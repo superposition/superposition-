@@ -14,6 +14,7 @@ Adaptors (key: Value)
 sprintf strptime() 
 
 
+Scrap -> Scrub -> Store -> Recall
 
 
 naming convention ideas ->> twitter
