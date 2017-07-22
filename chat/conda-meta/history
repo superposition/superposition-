@@ -1,0 +1,25 @@
+==> 2017-07-18 21:50:58 <==
+# cmd: /home/eric/superposition/chat/bin/conda install bokeh
++defaults::bkcharts-0.2-py36_0
++defaults::bokeh-0.12.6-py36_0
++defaults::jinja2-2.9.6-py36_0
++defaults::markupsafe-0.23-py36_2
++defaults::mkl-2017.0.3-0
++defaults::numpy-1.13.1-py36_0
++defaults::openssl-1.0.2l-0
++defaults::pip-9.0.1-py36_1
++defaults::python-3.6.1-2
++defaults::python-dateutil-2.6.0-py36_0
++defaults::pyyaml-3.12-py36_0
++defaults::readline-6.2-2
++defaults::requests-2.14.2-py36_0
++defaults::setuptools-27.2.0-py36_0
++defaults::six-1.10.0-py36_0
++defaults::sqlite-3.13.0-0
++defaults::tk-8.5.18-0
++defaults::tornado-4.5.1-py36_0
++defaults::wheel-0.29.0-py36_0
++defaults::xz-5.2.2-1
++defaults::yaml-0.1.6-0
++defaults::zlib-1.2.8-3
+# install specs: bokeh
